@@ -1,4 +1,5 @@
 // for each loop
+//for each never return anything 
 
 const coding=["js","ruby","java","py","cpp"]
 //in foreach loop we cannot use the name of function in beacuse it is a callback function
